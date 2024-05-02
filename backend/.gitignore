@@ -1,0 +1,6 @@
+#Ignoring python commands
+*__pycache__
+
+#Ignoring env
+backendenv
+scytale
